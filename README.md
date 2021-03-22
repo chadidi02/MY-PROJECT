@@ -1,6 +1,6 @@
 # React and Tailwind CSS
 
-[View Demo](test...) |
+[View Demo](test...)
 
 ## Usage:
 
