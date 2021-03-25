@@ -1,7 +1,9 @@
 body {
 	background: #eee;
 }
-
+.me {
+	background: linear-gradient(to right, #4dc0b5 var(--scroll), transparent 0);
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
